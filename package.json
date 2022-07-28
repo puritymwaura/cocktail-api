@@ -1,0 +1,22 @@
+{
+  "name": "cocktail-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puritymwaura/cocktail-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puritymwaura/cocktail-api/issues"
+  },
+  "homepage": "https://github.com/puritymwaura/cocktail-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
